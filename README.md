@@ -1,5 +1,5 @@
 # AI for Machine Learning
 
-Main goal
-- Summarization of this course
-- Save my codes (practice, study, etc.)
+## Main goal
+- Summarization of content for this machine learning course
+- Saving my codes (in practicing, studying, etc.)
